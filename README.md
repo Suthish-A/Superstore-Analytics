@@ -1,5 +1,9 @@
 # Superstore-Analytics
 
+
+## Project Overview:
+The self-practice dashboard project in Tableau aims to provide a hands-on learning experience in data visualization, exploration, and dashboard creation using Tableau software. The project involves leveraging Tableau's powerful features to build an interactive and insightful dashboard that showcases data in a meaningful and comprehensible manner
+
 ### Worksheet Titles and KPIs:
 
 Clearly defined worksheet titles and key performance indicators (KPIs) to communicate the dimensions and measures effectively.
@@ -30,8 +34,11 @@ Possibly used for data preparation, cleaning, or additional analysis before impo
 ### Dashboard over view
 ![image](https://github.com/Suthish-A/Superstore-Analytics/assets/133667688/c90352ab-9fa5-4c3d-b118-19d4fc6781cf)
 
+
+
 ![image](https://github.com/Suthish-A/Superstore-Analytics/assets/133667688/62844913-c7cc-415a-8bd1-de4032027d19)
 
 
 
-##
+## Observation OF the Project:
+The self-practice dashboard project in Tableau provides an opportunity to apply Tableau skills, explore data, and create compelling visualizations. Through this project, one can gain hands-on experience in data storytelling and dashboard development, honing skills essential for effective data analysis and communication in various domains.
